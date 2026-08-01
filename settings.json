@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SilverswordsMC.aternos.me",
+    "ip": "SilverswordsMC.aternos.me:45113",
     "port": 45113,
     "version": "",
     "try-creative": false
